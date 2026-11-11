@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>JavaTask10</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>article.txt</name>
+			<type>1</type>
+			<location>D:/article.txt</location>
+		</link>
+		<link>
+			<name>input.txt</name>
+			<type>1</type>
+			<location>D:/input.txt</location>
+		</link>
+		<link>
+			<name>inputt.txt</name>
+			<type>1</type>
+			<location>D:/inputt.txt</location>
+		</link>
+		<link>
+			<name>numbers.txt</name>
+			<type>1</type>
+			<location>D:/numbers.txt</location>
+		</link>
+		<link>
+			<name>students.txt</name>
+			<type>1</type>
+			<location>D:/students.txt</location>
+		</link>
+	</linkedResources>
+</projectDescription>
